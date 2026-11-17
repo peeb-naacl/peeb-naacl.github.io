@@ -1,0 +1,68 @@
+{
+  "source": "https://aclanthology.org/2024.findings-naacl.131.pdf",
+  "doi": "10.18653/v1/2024.findings-naacl.131",
+  "license": "CC BY 4.0 (ACL Anthology, 2024)",
+  "processing": "Rendered at 288 dpi, cropped, and encoded as lossless WebP; original figure contents preserved.",
+  "figures": [
+    {
+      "file": "figure-1-explanations.webp",
+      "page": 1,
+      "crop_pdf_points": [
+        303,
+        219,
+        527,
+        374
+      ],
+      "width": 896,
+      "height": 620
+    },
+    {
+      "file": "figure-2-editability.webp",
+      "page": 3,
+      "crop_pdf_points": [
+        69,
+        71,
+        527,
+        245
+      ],
+      "width": 1832,
+      "height": 696
+    },
+    {
+      "file": "figure-3-architecture.webp",
+      "page": 5,
+      "crop_pdf_points": [
+        69,
+        77,
+        527,
+        278
+      ],
+      "width": 1832,
+      "height": 804
+    },
+    {
+      "file": "figure-4-descriptors.webp",
+      "page": 7,
+      "crop_pdf_points": [
+        67,
+        67,
+        527,
+        300
+      ],
+      "width": 1840,
+      "height": 932
+    },
+    {
+      "file": "figure-5-dogs.webp",
+      "page": 9,
+      "crop_pdf_points": [
+        69,
+        68,
+        527,
+        200
+      ],
+      "width": 1832,
+      "height": 528
+    }
+  ]
+}
